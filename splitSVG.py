@@ -5,7 +5,7 @@ import re
 import os
 from colorama import Fore, init
 
-svg_file = 'test-inkscape-extension.svg'
+svg_file = 'testfiles/Logo_test.svg'
 tags = ['inkscape:label', 'id']
 
 
